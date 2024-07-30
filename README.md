@@ -120,11 +120,11 @@ Bir kulübün bir yöneticisi olur.<br>
 Bir yönetici birden fazla kulüp yönetebilir.<br><br>
 
 
-### Adım 4 
-Phpmyadmin de sql sekmesine tıklayın ve github sayfasında bulunan Tabloya_Veri_Ekleme.sql ve Etkinlikler.sql sorgularını çalıştırın.(Tabloya_Veri_Ekleme.sql deki sorguyu yükledikten sonra kullanici_kayit tablosuna gidin oradaki sql sekmesine tıkladıktan 
-sonra Etkinlikler.sql sorgusunu çalıştırın)<br>  
-![](/Veri_Tabanina_Erisim/3.png)  
-![](/Veri_Tabanina_Erisim/4.png)
-![](/Veri_Tabanina_Erisim/2.png)<br>
-Tablolar bu şekilde gözükmelidir.<br>
-![](/Veri_Tabanina_Erisim/5.png)
+## Varlık İlişki Modelleri Ve İlişkisel Şemalar 
+### Kazayağı modeli
+![](/Veri_Tabanina_Erisim/3.png)
+### Chen Modeli
+![](/Veri_Tabanina_Erisim/3.png)
+
+
+
