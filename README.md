@@ -1,11 +1,11 @@
-## Site Yönetim Veritabanı Sistemi 
-# PROJENİN TANITIMI 
+# Site Yönetim Veritabanı Sistemi 
+## PROJENİN TANITIMI 
 Bu proje, bir apartman sitesinin yönetimini kolaylaştırmak için bir veritabanı sistemi 
 oluşturmayı amaçlar. Veritabanı, apartman kompleksi içindeki dairelerin, otoparkın, site 
 güvenliğinin, kulüp/spor salonunun ve site temizlik görevlerinin yönetimini sağlayacaktır. 
 Sistem, kullanıcıların bu bileşenlerle ilgili bilgilere erişmesini, güncellemesini ve takip 
 etmesini kolaylaştıracak bir arayüz sunacaktır. 
-Daire Yönetimi: 
+### Daire Yönetimi: 
 • Dairelerin numaraları, sahipleri, kiracıları, metrekareleri gibi bilgilerin kaydedilmesi. 
 • Daire sahiplerinin ve kiracıların iletişim bilgilerinin takibi. 
 • Dairelerin ödemelerinin takibi (aidat, elektrik, su vs.). 
