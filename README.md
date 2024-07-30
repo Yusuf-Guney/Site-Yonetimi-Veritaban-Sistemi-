@@ -1,123 +1,123 @@
 # Site Yönetim Veritabanı Sistemi 
-## PROJENİN TANITIMI 
+## Projenin Tanıtımı 
 Bu proje, bir apartman sitesinin yönetimini kolaylaştırmak için bir veritabanı sistemi 
 oluşturmayı amaçlar. Veritabanı, apartman kompleksi içindeki dairelerin, otoparkın, site 
 güvenliğinin, kulüp/spor salonunun ve site temizlik görevlerinin yönetimini sağlayacaktır. 
 Sistem, kullanıcıların bu bileşenlerle ilgili bilgilere erişmesini, güncellemesini ve takip 
 etmesini kolaylaştıracak bir arayüz sunacaktır. 
 ### Daire Yönetimi: 
-• Dairelerin numaraları, sahipleri, kiracıları, metrekareleri gibi bilgilerin kaydedilmesi. 
-• Daire sahiplerinin ve kiracıların iletişim bilgilerinin takibi. 
-• Dairelerin ödemelerinin takibi (aidat, elektrik, su vs.). 
-Otopark Yönetimi: 
+• Dairelerin numaraları, sahipleri, kiracıları, metrekareleri gibi bilgilerin kaydedilmesi.<br>
+• Daire sahiplerinin ve kiracıların iletişim bilgilerinin takibi.<br>
+• Dairelerin ödemelerinin takibi (aidat, elektrik, su vs.).<br> 
+### Otopark Yönetimi: 
 • Otoparktaki park yerlerinin kaydedilmesi ve kimin kullandığının takibi. 
-Site Güvenliği: 
-• Güvenlik görevlilerinin bilgilerinin kaydedilmesi ve vardiya takibinin yapılması. 
-• Giriş/çıkış kayıtlarının tutulması. 
-Kulüp/Spor Salonu Yönetimi: 
+### Site Güvenliği: 
+• Güvenlik görevlilerinin bilgilerinin kaydedilmesi ve vardiya takibinin yapılması.<br>
+• Giriş/çıkış kayıtlarının tutulması. <br>
+### Kulüp/Spor Salonu Yönetimi: 
 • Kulüp ve spor salonunun kullanıcılarının kaydedilmesi ve üyelik takibinin 
-yapılması. 
-• Tesis rezervasyonlarının yapılması. 
-Site Temizlik Görevleri: 
+yapılması.<br>
+• Tesis rezervasyonlarının yapılması.<br>
+### Site Temizlik Görevleri: 
 • Temizlik görevlilerinin bilgilerinin kaydedilmesi ve çalışma programlarının 
-oluşturulması. 
-• Temizlik görevlerinin takibi ve günlük, haftalık, aylık planların oluşturulması. 
-Gereksinim Analizi  
-Kullanıcı Gereksinimleri: 
-Daire Sahipleri ve Kiracılar: 
-• Kullanıcı olarak sisteme giriş yapabilmeliyim. 
+oluşturulması.<br>
+• Temizlik görevlerinin takibi ve günlük, haftalık, aylık planların oluşturulması.<br>
+## Gereksinim Analizi  
+## Kullanıcı Gereksinimleri: 
+## Daire Sahipleri ve Kiracılar: 
+• Kullanıcı olarak sisteme giriş yapabilmeliyim.<br>
 • Dairemizin bilgilerini görüntüleyebilmeliyim (numara, metrekare, sahip/kiracı 
-bilgisi). 
-• Ödemelerimizi takip edebilmeli ve ödeme yapabilmeliyiz. 
-Otopark Kullanıcıları: 
-• Otopark yerlerinin durumunu görebilmeli ve rezervasyon yapabilmeliyim. 
-Site Güvenlik Görevlileri: 
-• Günlük vardiya bilgilerimi görebilmeliyim. 
-• Giriş/çıkış kayıtlarını görebilmeliyim. 
-Kulüp/Spor Salonu Kullanıcıları: 
-• Tesis rezervasyonu yapabilmeliyim. 
-• Üyelik bilgilerimi ve ödemelerimi görebilmeliyim. 
-Site Temizlik Görevlileri: 
-• Çalışma programlarımı görebilmeli ve güncelleyebilmeliyim. 
-• Temizlik görevlerini görebilmeli ve tamamlandı olarak işaretleyebilmeliyim. 
-Sistem Gereksinimleri: 
-Kullanıcı Yönetimi: 
-• Kullanıcıların kaydedilmesi, güncellenmesi ve silinmesi. 
-• Kullanıcı yetkilendirme ve oturum yönetimi. 
-Daire Yönetimi: 
-• Dairelerin kaydedilmesi, güncellenmesi ve silinmesi. 
-• Ödemelerin kaydedilmesi ve takibi. 
-Otopark Yönetimi: 
-• Park yerlerinin kaydedilmesi ve yönetilmesi. 
-• Rezervasyon sistemi. 
-Site Güvenliği: 
-• Güvenlik görevlilerinin kaydedilmesi ve vardiya takibi. 
-• Giriş/çıkış kayıtlarının tutulması. 
+bilgisi).<br> 
+• Ödemelerimizi takip edebilmeli ve ödeme yapabilmeliyiz.<br>
+## Otopark Kullanıcıları: 
+• Otopark yerlerinin durumunu görebilmeli ve rezervasyon yapabilmeliyim.<br>
+## Site Güvenlik Görevlileri: 
+• Günlük vardiya bilgilerimi görebilmeliyim.<br>
+• Giriş/çıkış kayıtlarını görebilmeliyim.<br>
+## Kulüp/Spor Salonu Kullanıcıları: 
+• Tesis rezervasyonu yapabilmeliyim.<br>
+• Üyelik bilgilerimi ve ödemelerimi görebilmeliyim.<br> 
+## Site Temizlik Görevlileri: 
+• Çalışma programlarımı görebilmeli ve güncelleyebilmeliyim.<br>
+• Temizlik görevlerini görebilmeli ve tamamlandı olarak işaretleyebilmeliyim.<br>
+## Sistem Gereksinimleri: 
+## Kullanıcı Yönetimi: 
+• Kullanıcıların kaydedilmesi, güncellenmesi ve silinmesi. <br> 
+• Kullanıcı yetkilendirme ve oturum yönetimi. <br>
+## Daire Yönetimi: 
+• Dairelerin kaydedilmesi, güncellenmesi ve silinmesi. <br> 
+• Ödemelerin kaydedilmesi ve takibi. <br>
+### Otopark Yönetimi: 
+• Park yerlerinin kaydedilmesi ve yönetilmesi. <br>
+• Rezervasyon sistemi. <br>
+### Site Güvenliği: 
+• Güvenlik görevlilerinin kaydedilmesi ve vardiya takibi.<br> 
+• Giriş/çıkış kayıtlarının tutulması. <br>
 Kulüp/Spor Salonu Yönetimi: 
-• Kulüp ve spor salonunun kaydedilmesi ve yönetilmesi. 
-• Üyelik bilgilerinin kaydedilmesi ve üyelik yönetimi. 
-Site Temizlik Görevleri: 
-• Temizlik görevlerinin kaydedilmesi ve programlanması. 
-• Temizlik görevlerinin takibi ve güncellenmesi. 
-Performans Gereksinimleri: 
-• Sistemin hızlı ve güvenilir olması.   
-• Veritabanı işlemlerinin hızlı ve verimli yapılması.  
-• Kullanıcıların anlık güncellemelere kolayca erişebilmesi. 
-Güvenlik Gereksinimleri: 
-• Kullanıcıların gizli bilgilerinin güvenliği (şifreleme, güvenli oturum yönetimi vb.) 
-• Veritabanı güvenliği (yetkilendirme, yetki yönetimi, yedekleme vb.) 
-İş Kuralları 
-Apartman – Daireler (N:1)  
-Bir apartmanda birden fazla daire bulunur. 
-Bir daire bir apartmanda bulunabilir. 
-Apartman – Apartman Yöneticisi (1:1) 
-Bir apartmanı bir yönetici yönetir. 
-Bir yönetici bir apartmanı yönetebilir. 
-Apartman – Site Temizlik Görevi (N:M) 
-Bir apartmanda birden fazla temizlik görevi olur. 
-Bir temizlik görevi birden fazla apartmanda olabilir. 
-Daireler – Otopark Alanı (N:M) 
-Bir daire birden fazla otopark kullanabilir. 
-Bir otoparkı birden fazla daire kullanır. 
-Daire Telefonları – Site Güvenliği Telefon Numaraları (1:N) 
-Site güvenliğinde tüm telefon numaraları bulunur. 
-Bir dairede bir telefon bulunur. 
-Daireler – Araba (N:1)  
-Bir dairede birden fazla arabaya sahip olabilir. 
-Bir araba bir daireye sahiptir. 
-Daireler – Apartman Sakinleri (N:1) 
-Bir dairede birden fazla daire sakini oturur. 
-Bir apartman sakini bir dairede oturur. 
-Apartman Sakinleri – Apartman Yöneticisi (1:1) 
-Bir apartman sakini yönetici olabilir 
-Bir yönetici aynı zamanda apartman sakinidir 
-Apartman Sakinleri – Kulüp Üyeleri (N:M) 
-Bir apartman sakini birden fazla kulübe üye olabilir. 
-Bir kulübün birden fazla üyesi olabilir. 
-Apartman Sakinleri – Spor Sahası (N:M) 
-Bir apartman sakini birden fazla spor sahası kullanabilir. 
-Bir spor sahasını birden fazla apartman sakini kullanabilir. 
-Site Temizlik Personeli – Site Temizlik Malzemeleri (N:M)  
-Bir temizlik personeli birden fazla malzeme kullanabilir. 
-Bir malzemeyi birden fazla temizlikçi kullanabilir. 
-Site Temizlik Personeli – Site Temizlik Görevi (N:M) 
-Bir personel birden fazla görevi yapabilir. 
-Bir görevi birden fazla personel yapabilir. 
-Site Temizlik Görevi – Otopark (N:M) 
-Bir otopark da birden fazla görev bulunabilir. 
-Bir temizlik görev bir otopark da bulunur. 
-Site Temizlik Görevi – Spor Salonu (N:M) 
-Bir spor salanında birden fazla temizlik görevi bulunabilir. 
-Bir temizlik görevi birden fazla spor salonunda bulunabilir. 
-Spor Sahası Personel – Spor Sahası Türü(N:M) 
-Bir spor personelinin birden fazla branşı olabilir. 
-Bir branşın birden fazla spor personeli bulunabilir. 
-Site Kulüpleri – Kulüp Üyeleri (N:M) 
-Bir kulübün birden fazla üyesi olabilir  
-Bir üye birden fazla kulübe üye olabilir. 
-Site Kulüpleri – Kulüp Yöneticisi (N:1) 
-Bir kulübün bir yöneticisi olur. 
-Bir yönetici birden fazla kulüp yönetebilir.
+• Kulüp ve spor salonunun kaydedilmesi ve yönetilmesi.<br> 
+• Üyelik bilgilerinin kaydedilmesi ve üyelik yönetimi. <br>
+### Site Temizlik Görevleri: 
+• Temizlik görevlerinin kaydedilmesi ve programlanması. <br>
+• Temizlik görevlerinin takibi ve güncellenmesi. <br>
+### Performans Gereksinimleri: 
+• Sistemin hızlı ve güvenilir olması.<br>   
+• Veritabanı işlemlerinin hızlı ve verimli yapılması.<br>  
+• Kullanıcıların anlık güncellemelere kolayca erişebilmesi. <br>
+### Güvenlik Gereksinimleri: 
+• Kullanıcıların gizli bilgilerinin güvenliği (şifreleme, güvenli oturum yönetimi vb.) <br>
+• Veritabanı güvenliği (yetkilendirme, yetki yönetimi, yedekleme vb.)<br> 
+## İş Kuralları 
+Apartman – Daireler (N:1) <br> 
+Bir apartmanda birden fazla daire bulunur.<br> 
+Bir daire bir apartmanda bulunabilir.<br> 
+Apartman – Apartman Yöneticisi (1:1) <br>
+Bir apartmanı bir yönetici yönetir. <br>
+Bir yönetici bir apartmanı yönetebilir. <br>
+Apartman – Site Temizlik Görevi (N:M) <br>
+Bir apartmanda birden fazla temizlik görevi olur. <br>
+Bir temizlik görevi birden fazla apartmanda olabilir. <br>
+Daireler – Otopark Alanı (N:M) <br>
+Bir daire birden fazla otopark kullanabilir. <br>
+Bir otoparkı birden fazla daire kullanır.<br> 
+Daire Telefonları – Site Güvenliği Telefon Numaraları (1:N) <br>
+Site güvenliğinde tüm telefon numaraları bulunur. <br>
+Bir dairede bir telefon bulunur. <br>
+Daireler – Araba (N:1)  <br>
+Bir dairede birden fazla arabaya sahip olabilir. <br>
+Bir araba bir daireye sahiptir. <br>
+Daireler – Apartman Sakinleri (N:1) <br>
+Bir dairede birden fazla daire sakini oturur. <br>
+Bir apartman sakini bir dairede oturur. <br>
+Apartman Sakinleri – Apartman Yöneticisi (1:1) <br>
+Bir apartman sakini yönetici olabilir <br>
+Bir yönetici aynı zamanda apartman sakinidir <br>
+Apartman Sakinleri – Kulüp Üyeleri (N:M)<br> 
+Bir apartman sakini birden fazla kulübe üye olabilir. <br>
+Bir kulübün birden fazla üyesi olabilir. <br>
+Apartman Sakinleri – Spor Sahası (N:M) <br>
+Bir apartman sakini birden fazla spor sahası kullanabilir. <br>
+Bir spor sahasını birden fazla apartman sakini kullanabilir. <br>
+Site Temizlik Personeli – Site Temizlik Malzemeleri (N:M)<br>  
+Bir temizlik personeli birden fazla malzeme kullanabilir. <br>
+Bir malzemeyi birden fazla temizlikçi kullanabilir.<br> 
+Site Temizlik Personeli – Site Temizlik Görevi (N:M)<br> 
+Bir personel birden fazla görevi yapabilir. <br>
+Bir görevi birden fazla personel yapabilir. <br>
+Site Temizlik Görevi – Otopark (N:M) <br>
+Bir otopark da birden fazla görev bulunabilir. <br>
+Bir temizlik görev bir otopark da bulunur.<br> 
+Site Temizlik Görevi – Spor Salonu (N:M) <br>
+Bir spor salanında birden fazla temizlik görevi bulunabilir.<br> 
+Bir temizlik görevi birden fazla spor salonunda bulunabilir.<br> 
+Spor Sahası Personel – Spor Sahası Türü(N:M) <br> 
+Bir spor personelinin birden fazla branşı olabilir.<br> 
+Bir branşın birden fazla spor personeli bulunabilir. <br>
+Site Kulüpleri – Kulüp Üyeleri (N:M) <br>
+Bir kulübün birden fazla üyesi olabilir  <br>
+Bir üye birden fazla kulübe üye olabilir. <br>
+Site Kulüpleri – Kulüp Yöneticisi (N:1) <br>
+Bir kulübün bir yöneticisi olur. <br>
+Bir yönetici birden fazla kulüp yönetebilir.<br>
 
 
 ### Adım 4 
