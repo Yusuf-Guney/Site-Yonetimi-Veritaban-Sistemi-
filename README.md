@@ -97,7 +97,7 @@ Bir kulübün birden fazla üyesi olabilir.<br><br>
 Apartman Sakinleri – Spor Sahası (N:M)<br>
 Bir apartman sakini birden fazla spor sahası kullanabilir.<br>
 Bir spor sahasını birden fazla apartman sakini kullanabilir.<br><br>
-Site Temizlik Personeli – Site Temizlik Malzemeleri (N:M)<br>  
+Site Temizlik Personeli – Site Temizlik Malzemeleri (N:M)  
 Bir temizlik personeli birden fazla malzeme kullanabilir.<br>
 Bir malzemeyi birden fazla temizlikçi kullanabilir.<br><br> 
 Site Temizlik Personeli – Site Temizlik Görevi (N:M)<br> 
