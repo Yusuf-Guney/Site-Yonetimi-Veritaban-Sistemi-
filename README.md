@@ -1,4 +1,4 @@
-# Site Yönetim Veritabanı Sistemi 
+# Site Yönetimi Veritabanı Sistemi 
 ## Projenin Tanıtımı 
 Bu proje, bir apartman sitesinin yönetimini kolaylaştırmak için bir veritabanı sistemi 
 oluşturmayı amaçlar. Veritabanı, apartman kompleksi içindeki dairelerin, otoparkın, site 
