@@ -122,9 +122,9 @@ Bir yönetici birden fazla kulüp yönetebilir.<br><br>
 
 ## Varlık İlişki Modelleri Ve İlişkisel Şemalar 
 ### Kazayağı modeli
-![](/Veri_Tabanina_Erisim/3.png)
+![](/Kazayagi_modeli.png)
 ### Chen Modeli
-![](/Veri_Tabanina_Erisim/3.png)
+![](/Chen_Modeli.png)
 
 
 
